@@ -167,6 +167,14 @@ body {
     flex: 1;
     min-width: 200px;
     padding: 10px;
+    margin-left: 550px;
+}
+
+.footer .about-us-content{
+    margin-left: 350px;
+}
+.footer .contact-us-content{
+    margin-left: 500px;
 }
 
 .footer h3 {
