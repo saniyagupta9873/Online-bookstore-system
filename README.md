@@ -1,2 +1,3 @@
 # Online-bookstore-system
 It is a online bookstore DBMS project 
+In  this project we will show details of books liye author_name, date of publisher ,price of book,etc...
